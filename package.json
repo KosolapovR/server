@@ -1,0 +1,22 @@
+{
+  "name": "0ex63",
+  "version": "0.0.0",
+  "description": "Server example starter project",
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  }
+}
